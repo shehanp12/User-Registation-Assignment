@@ -1,0 +1,29 @@
+{
+  "listStates": [
+    {
+      "id": "1",
+      "name": "Gampaha"
+    },
+    {
+      "id": "2",
+      "name": "Colombo"
+    },
+    {
+      "id": "3",
+      "name": "Kandy"
+    },
+    {
+      "id": "4",
+      "name": "Jaffna"
+    },
+    {
+      "id": "5",
+      "name": "Galle"
+    },
+    {
+      "id": "6",
+      "name": "Mannar"
+    }
+
+  ]
+}
